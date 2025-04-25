@@ -8,7 +8,7 @@ export default function SignUpPage() {
       {/* Left side - Blue background with image */}
       <div className="hidden md:flex md:w-1/2 bg-blue-600 flex-col justify-between p-8">
         <div className="text-white">
-          <h2 className="text-2xl font-bold">Artisan</h2>
+          <h2 className="text-2xl font-bold">Handigo</h2>
         </div>
         <div className="flex justify-center">
           <Image
