@@ -8,7 +8,7 @@ export default function LoginPage() {
       {/* Left side - Blue background with image */}
       <div className="hidden md:flex md:w-1/2 bg-blue-600 flex-col justify-between p-8">
         <div className="text-white">
-          <h2 className="text-2xl font-bold">Artisan</h2>
+          <h2 className="text-2xl font-bold">Handi-go</h2>
         </div>
         <div className="flex justify-center">
           <Image
@@ -21,7 +21,7 @@ export default function LoginPage() {
           />
         </div>
         <div className="text-white text-sm">
-          <p>© 2023 Artisan. All rights reserved.</p>
+          <p>© 2023 Handigo. All rights reserved.</p>
         </div>
       </div>
 
